@@ -1,0 +1,1 @@
+This project is an exercise for CS6378 Advanced Operating Systems at UTDallas, assignment #3. It must implement Ricart & Agrawala's  mutual exclusion algorithm, using a code separation of two modules and at least 3 nodes across 3 different servers. One module handles application details, and the other the logic for RicartAgrawala.
